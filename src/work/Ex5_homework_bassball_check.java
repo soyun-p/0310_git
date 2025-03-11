@@ -3,7 +3,7 @@ package work;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ex5_homework {
+public class Ex5_homework_bassball_check {
 	public static void main(String[] args) {
 		
 		// 숫자 야구 (전공자들은 배열을 이용해서 입력을 243 붙여서 받는 거로.)
@@ -30,6 +30,7 @@ public class Ex5_homework {
 		// 십의 자리 : 2
 		// 일의 자리 : 9
 		// 4회만에 정답!!
+		
 		
 		
 		// 컴퓨터 난수 배열 생성
